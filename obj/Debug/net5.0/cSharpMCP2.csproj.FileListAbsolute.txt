@@ -1,0 +1,16 @@
+C:\Users\antho\repos\cSharpMCP2\bin\Debug\net5.0\cSharpMCP2.exe
+C:\Users\antho\repos\cSharpMCP2\bin\Debug\net5.0\cSharpMCP2.deps.json
+C:\Users\antho\repos\cSharpMCP2\bin\Debug\net5.0\cSharpMCP2.runtimeconfig.json
+C:\Users\antho\repos\cSharpMCP2\bin\Debug\net5.0\cSharpMCP2.runtimeconfig.dev.json
+C:\Users\antho\repos\cSharpMCP2\bin\Debug\net5.0\cSharpMCP2.dll
+C:\Users\antho\repos\cSharpMCP2\bin\Debug\net5.0\ref\cSharpMCP2.dll
+C:\Users\antho\repos\cSharpMCP2\bin\Debug\net5.0\cSharpMCP2.pdb
+C:\Users\antho\repos\cSharpMCP2\obj\Debug\net5.0\cSharpMCP2.csproj.AssemblyReference.cache
+C:\Users\antho\repos\cSharpMCP2\obj\Debug\net5.0\cSharpMCP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\repos\cSharpMCP2\obj\Debug\net5.0\cSharpMCP2.AssemblyInfoInputs.cache
+C:\Users\antho\repos\cSharpMCP2\obj\Debug\net5.0\cSharpMCP2.AssemblyInfo.cs
+C:\Users\antho\repos\cSharpMCP2\obj\Debug\net5.0\cSharpMCP2.csproj.CoreCompileInputs.cache
+C:\Users\antho\repos\cSharpMCP2\obj\Debug\net5.0\cSharpMCP2.dll
+C:\Users\antho\repos\cSharpMCP2\obj\Debug\net5.0\ref\cSharpMCP2.dll
+C:\Users\antho\repos\cSharpMCP2\obj\Debug\net5.0\cSharpMCP2.pdb
+C:\Users\antho\repos\cSharpMCP2\obj\Debug\net5.0\cSharpMCP2.genruntimeconfig.cache
